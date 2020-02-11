@@ -1,0 +1,16 @@
+#paths
+path_to_dataset : "E:\Mitesh\KnowledgeSharingSeries\MachineLearningModelDeployment\house-prices-advanced-regression-techniques"
+output_scaler_path : "C:\Users\admin\PycharmProjects\MachineLearningModelDeployment_Procedural"
+output_model_path : "C:\Users\admin\PycharmProjects\MachineLearningModelDeployment_Procedural"
+
+# preproc
+var1_mean_val : 1
+var2_mean_val : 2
+
+var4_cap_value : 1000
+var5_cap_value : 5000
+
+var8_frequent_labels : ['frequent1', 'frequent2', 'frequent3']
+
+# features
+features : ['var1', 'var2', 'var3', 'var4', 'etc']

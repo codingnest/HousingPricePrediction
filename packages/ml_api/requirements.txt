@@ -1,0 +1,8 @@
+# api
+flask==1.0.2
+
+# local housing_model package
+-e "E:\Coding Nest\DataScience_Nov2019\CourseMaterials\HousePricePrediction\packages\housing_model"
+
+# schema validation
+marshmallow==2.17.0
